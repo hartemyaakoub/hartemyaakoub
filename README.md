@@ -27,9 +27,27 @@ I run **TKAWEN** — a sovereign-tech company building infrastructure for the ME
 
 ---
 
+### 🎥 Flagship — LIQAA Meet
+
+**[`liqaa-meet`](https://github.com/hartemyaakoub/liqaa-meet)** — the open-source video meeting platform. Self-host in 60 seconds. AI captions and summaries running entirely in your browser, never on a server. The open-source alternative to Zoom, Meet, Teams.
+
+[![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-1d4ed8?style=flat-square)](https://github.com/hartemyaakoub/liqaa-meet/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/hartemyaakoub/liqaa-meet?style=flat-square&color=eab308)](https://github.com/hartemyaakoub/liqaa-meet)
+[![Self-host](https://img.shields.io/badge/self--host-1%20command-10b981?style=flat-square)](https://github.com/hartemyaakoub/liqaa-meet/blob/main/SELF_HOSTING.md)
+
+```bash
+git clone https://github.com/hartemyaakoub/liqaa-meet
+cd liqaa-meet && cp .env.example .env
+docker compose up -d
+```
+
+Live demo: **[meet.liqaa.io](https://meet.liqaa.io)**
+
+---
+
 ### LIQAA — the open-source ecosystem
 
-This isn't a single repo. It's a **21-repo platform** — every artifact a developer needs, in their language, with their workflow. Specs and SDKs, examples and templates, benchmarks and status, governance and brand. All public, all reproducible.
+This isn't a single repo. It's a **22-repo platform** — every artifact a developer needs, in their language, with their workflow. Specs and SDKs, examples and templates, benchmarks and status, governance and brand. All public, all reproducible.
 
 #### 🧰 SDKs · meet developers in their language
 
