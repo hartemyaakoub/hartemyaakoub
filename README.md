@@ -2,16 +2,16 @@
 
 ### Yaakoub HARTEM
 
-**Founder & CEO, [TKAWEN](https://tkawen.com)** · Building real-time infrastructure from Algeria, for the world.
+**Founder & CEO, [TKAWEN](https://tkawen.com)** · Building real-time infrastructure from 🇩🇿 Algeria, for the world.
 
-🌐 **[liqaa.io](https://liqaa.io)** — drop-in video & messaging API
-🎓 **[algeriacertify.com](https://algeriacertify.com)** — verified credentials platform
-🛒 **[mystoq.com](https://mystoq.com)** — e-commerce SaaS for Algerian merchants
-🧠 **[tkawen.com](https://tkawen.com)** — the unified ID platform across all of the above
+[![liqaa](https://img.shields.io/badge/LIQAA-Cloud-1d4ed8?style=flat-square)](https://liqaa.io)
+[![tkawen](https://img.shields.io/badge/TKAWEN-Group-0a0d18?style=flat-square)](https://tkawen.com)
+[![algeriacertify](https://img.shields.io/badge/Algeria_Certify-Live-10b981?style=flat-square)](https://algeriacertify.com)
+[![mystoq](https://img.shields.io/badge/MyStoq-Live-7c3aed?style=flat-square)](https://mystoq.com)
 
-[![Email](https://img.shields.io/badge/email-yaakoub.hartem.mhsi%40gmail.com-1d4ed8?style=flat-square)](mailto:yaakoub.hartem.mhsi@gmail.com)
-[![X](https://img.shields.io/badge/x-%40liqaa__io-0f172a?style=flat-square)](https://x.com/liqaa_io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaakoub%20HARTEM-0a66c2?style=flat-square)](https://linkedin.com/in/hartem-yaakoub)
+[![Email](https://img.shields.io/badge/email-yaakoub.hartem.mhsi%40gmail.com-475569?style=flat-square)](mailto:yaakoub.hartem.mhsi@gmail.com)
+[![X](https://img.shields.io/badge/x-%40liqaa__io-0f172a?style=flat-square&logo=x)](https://x.com/liqaa_io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaakoub_HARTEM-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hartem-yaakoub)
 
 </div>
 
@@ -23,14 +23,25 @@ I run **TKAWEN** — a sovereign-tech company building infrastructure for the ME
 
 **LIQAA** is the public-facing piece: a Stripe-grade video conferencing API with WebRTC under the hood, served from a global edge network. WebRTC simulcast, HMAC-signed webhooks, JWT-based per-user tokens, persistent room reuse — production primitives, not a demo.
 
-**Stack I work with daily:** TypeScript, Next.js, Laravel 12, PHP 8.4, LiveKit SFU, Postgres, Redis, nginx, systemd, Docker, GitHub Actions, Vercel, Cloudflare R2.
+**Stack:** TypeScript, Next.js, Laravel 12, PHP 8.4, Go, Python, LiveKit SFU, Postgres, Redis, nginx, systemd, Docker, GitHub Actions, Vercel, Cloudflare R2.
 
-### Open-source I maintain
+---
 
-| Repo | Description | Status |
-| ---- | ----------- | ------ |
-| [`liqaa-js`](https://github.com/hartemyaakoub/liqaa-js) | The official LIQAA JS SDK + framework examples | Public |
-| [`liqaa-openapi`](https://github.com/hartemyaakoub/liqaa-openapi) | OpenAPI 3.1 spec for the LIQAA Public API | Public |
+### LIQAA — open-source ecosystem
+
+| Repo | Language | Description |
+| ---- | -------- | ----------- |
+| 🏆 [`liqaa-js`](https://github.com/hartemyaakoub/liqaa-js) | TypeScript | The official LIQAA JS SDK — drop-in `<script>` + npm package, with React/Next.js/Vue/Vanilla examples |
+| 📜 [`liqaa-openapi`](https://github.com/hartemyaakoub/liqaa-openapi) | YAML | OpenAPI 3.1 specification for the LIQAA Public API |
+| 🐘 [`liqaa-php`](https://github.com/hartemyaakoub/liqaa-php) | PHP | Composer package — Laravel/Symfony-friendly server SDK |
+| 🐍 [`liqaa-python`](https://github.com/hartemyaakoub/liqaa-python) | Python | Pure-stdlib PyPI package — Flask/Django/FastAPI examples |
+| 🐹 [`liqaa-go`](https://github.com/hartemyaakoub/liqaa-go) | Go | Idiomatic `go get`-able module |
+| 🤖 [`liqaa-mcp`](https://github.com/hartemyaakoub/liqaa-mcp) | TypeScript | **Model Context Protocol** server — let AI agents (Claude, Cursor) start video calls |
+| ✨ [`awesome-liqaa`](https://github.com/hartemyaakoub/awesome-liqaa) | Markdown | Curated list of SDKs, integrations, and community resources |
+| 📰 [`liqaa-changelog`](https://github.com/hartemyaakoub/liqaa-changelog) | Markdown | Public changelog for the entire LIQAA platform |
+| 🗺️ [`liqaa-roadmap`](https://github.com/hartemyaakoub/liqaa-roadmap) | Markdown | What we're shipping — Q2/Q3/Q4 2026, plus 2027 horizon |
+
+---
 
 ### Reach out
 
@@ -38,4 +49,13 @@ I run **TKAWEN** — a sovereign-tech company building infrastructure for the ME
 - **Security:** [security@liqaa.io](mailto:security@liqaa.io)
 - **Personal:** [yaakoub.hartem.mhsi@gmail.com](mailto:yaakoub.hartem.mhsi@gmail.com)
 
+---
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hartemyaakoub&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)](https://github.com/hartemyaakoub)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hartemyaakoub&theme=transparent&hide_border=true&layout=compact)](https://github.com/hartemyaakoub)
+
 > Built in 🇩🇿 Algeria, for the world.
+
+</div>
