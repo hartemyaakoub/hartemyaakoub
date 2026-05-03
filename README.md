@@ -29,7 +29,7 @@ I run **TKAWEN** — a sovereign-tech company building infrastructure for the ME
 
 ### LIQAA — the open-source ecosystem
 
-This isn't a single repo. It's a **17-repo platform** — every artifact a developer needs, in their language, with their workflow.
+This isn't a single repo. It's a **21-repo platform** — every artifact a developer needs, in their language, with their workflow. Specs and SDKs, examples and templates, benchmarks and status, governance and brand. All public, all reproducible.
 
 #### 🧰 SDKs · meet developers in their language
 
@@ -54,13 +54,16 @@ This isn't a single repo. It's a **17-repo platform** — every artifact a devel
 | ---- | ----- | ------------ |
 | ⚡ [`liqaa-template-nextjs`](https://github.com/hartemyaakoub/liqaa-template-nextjs) | Next.js 16 · App Router · RSC · webhook handler | < 3 min |
 | ⚛️ [`liqaa-template-react`](https://github.com/hartemyaakoub/liqaa-template-react) | React 19 · Vite · TypeScript | < 3 min |
+| 🏭 [`liqaa-examples`](https://github.com/hartemyaakoub/liqaa-examples) | Five production examples — support widget, telehealth, classroom, sales, interviews | 5–15 min |
 
-#### 📜 Specs · single source of truth
+#### 📜 Specs & governance · single source of truth
 
 | Repo | What it is |
 | ---- | ---------- |
 | 📜 [`liqaa-openapi`](https://github.com/hartemyaakoub/liqaa-openapi) | OpenAPI 3.1 spec — the **only** description of the API. Every SDK derives from this |
 | 🏛️ [`liqaa-architecture`](https://github.com/hartemyaakoub/liqaa-architecture) | Public **Architecture Decision Records** + system diagrams. The "why" behind every choice |
+| 🗳️ [`liqaa-rfcs`](https://github.com/hartemyaakoub/liqaa-rfcs) | Public **RFC process** for substantial changes. Open governance, Rust-RFC inspired |
+| 🧪 [`liqaa-compliance`](https://github.com/hartemyaakoub/liqaa-compliance) | **Cross-SDK compliance suite** — same scenarios, 4 SDKs, 60-cell matrix CI. Proof of no behavioural drift |
 
 #### 🔭 Operations · radical transparency
 
@@ -69,13 +72,14 @@ This isn't a single repo. It's a **17-repo platform** — every artifact a devel
 | 🟢 [`liqaa-status`](https://github.com/hartemyaakoub/liqaa-status) | Public uptime probes — every 5 min via GitHub Actions, history is git log |
 | 📊 [`liqaa-benchmarks`](https://github.com/hartemyaakoub/liqaa-benchmarks) | Reproducible latency + cost benchmarks · LIQAA vs Daily, Twilio, LiveKit Cloud, Whereby |
 
-#### 📣 Community
+#### 📣 Community & brand
 
 | Repo | What it is |
 | ---- | ---------- |
 | ✨ [`awesome-liqaa`](https://github.com/hartemyaakoub/awesome-liqaa) | Curated list — SDKs, integrations, community resources |
 | 📰 [`liqaa-changelog`](https://github.com/hartemyaakoub/liqaa-changelog) | Public changelog (Keep-a-Changelog · semantic versioning) |
 | 🗺️ [`liqaa-roadmap`](https://github.com/hartemyaakoub/liqaa-roadmap) | What we're shipping — Q2/Q3/Q4 2026 + 2027 horizon |
+| 🎨 [`liqaa-assets`](https://github.com/hartemyaakoub/liqaa-assets) | Brand kit — logos, OG images, embed snippets, brand guidelines |
 
 ---
 
