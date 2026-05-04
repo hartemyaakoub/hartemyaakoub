@@ -13,6 +13,8 @@
 [![X](https://img.shields.io/badge/x-%40liqaa__io-0f172a?style=flat-square&logo=x)](https://x.com/liqaa_io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaakoub_HARTEM-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hartem-yaakoub)
 
+🟢 **[meet.liqaa.io](https://meet.liqaa.io)** is live now — open-source video meetings, working in your browser right now.
+
 </div>
 
 ---
