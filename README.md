@@ -2,7 +2,7 @@
 
 ### Yaakoub HARTEM
 
-**Founder & CEO, [TKAWEN](https://tkawen.com)** · Building real-time infrastructure from 🇩🇿 Algeria, for the world.
+**Founder & CEO, [TKAWEN](https://tkawen.com)** · Building real-time infrastructure from Algeria, for the world.
 
 [![liqaa](https://img.shields.io/badge/LIQAA-Cloud-1d4ed8?style=flat-square)](https://liqaa.io)
 [![tkawen](https://img.shields.io/badge/TKAWEN-Group-0a0d18?style=flat-square)](https://tkawen.com)
@@ -13,13 +13,13 @@
 [![X](https://img.shields.io/badge/x-%40liqaa__io-0f172a?style=flat-square&logo=x)](https://x.com/liqaa_io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaakoub_HARTEM-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hartem-yaakoub)
 
-🟢 **[meet.liqaa.io](https://meet.liqaa.io)** is live now — open-source video meetings, working in your browser right now.
-
 </div>
+
+[meet.liqaa.io](https://meet.liqaa.io) is live now — open-source video meetings, working in your browser right now.
 
 ---
 
-### What I'm shipping
+### What I am shipping
 
 I run **TKAWEN** — a sovereign-tech company building infrastructure for the MENA region and beyond. Our flagship products power production traffic for thousands of users daily.
 
@@ -29,7 +29,7 @@ I run **TKAWEN** — a sovereign-tech company building infrastructure for the ME
 
 ---
 
-### 🎥 Flagship — LIQAA Meet
+### Flagship — LIQAA Meet
 
 **[`liqaa-meet`](https://github.com/hartemyaakoub/liqaa-meet)** — the open-source video meeting platform. Self-host in 60 seconds. AI captions and summaries running entirely in your browser, never on a server. The open-source alternative to Zoom, Meet, Teams.
 
@@ -49,65 +49,65 @@ Live demo: **[meet.liqaa.io](https://meet.liqaa.io)**
 
 ### LIQAA — the open-source ecosystem
 
-This isn't a single repo. It's a **22-repo platform** — every artifact a developer needs, in their language, with their workflow. Specs and SDKs, examples and templates, benchmarks and status, governance and brand. All public, all reproducible.
+This is not a single repo. It is a **22-repo platform** — every artifact a developer needs, in their language, with their workflow. Specs and SDKs, examples and templates, benchmarks and status, governance and brand. All public, all reproducible.
 
-#### 🧰 SDKs · meet developers in their language
+#### SDKs
 
-| Repo | Lang | Package | What it does |
-| ---- | ---- | ------- | ------------ |
-| 🏆 [`liqaa-js`](https://github.com/hartemyaakoub/liqaa-js) | TypeScript | `@liqaa/js` | Drop-in `<script>` + npm — React, Next.js, Vue, Vanilla examples |
-| 🐘 [`liqaa-php`](https://github.com/hartemyaakoub/liqaa-php) | PHP | `liqaa/sdk` | Composer — Laravel + Symfony-friendly |
-| 🐍 [`liqaa-python`](https://github.com/hartemyaakoub/liqaa-python) | Python | `liqaa` | PyPI · Flask, Django, FastAPI |
-| 🐹 [`liqaa-go`](https://github.com/hartemyaakoub/liqaa-go) | Go | — | `go get` module, idiomatic |
+| Repo | Language | Package | What it does |
+| ---- | -------- | ------- | ------------ |
+| [`liqaa-js`](https://github.com/hartemyaakoub/liqaa-js) | TypeScript | `@liqaa/js` | Drop-in `<script>` and npm — React, Next.js, Vue, Vanilla examples |
+| [`liqaa-php`](https://github.com/hartemyaakoub/liqaa-php) | PHP | `liqaa/sdk` | Composer — Laravel and Symfony-friendly |
+| [`liqaa-python`](https://github.com/hartemyaakoub/liqaa-python) | Python | `liqaa` | PyPI · Flask, Django, FastAPI |
+| [`liqaa-go`](https://github.com/hartemyaakoub/liqaa-go) | Go | — | `go get` module, idiomatic |
 
-#### 🛠 Tooling · how developers actually use it
+#### Tooling
 
 | Repo | What it does |
 | ---- | ------------ |
-| ⌨️ [`liqaa-cli`](https://github.com/hartemyaakoub/liqaa-cli) | `npx @liqaa/cli` — login, rooms, tokens, webhooks, deliveries, status, shell completion |
-| 🤖 [`liqaa-mcp`](https://github.com/hartemyaakoub/liqaa-mcp) | **Model Context Protocol** — let Claude / Cursor implement video features by prompt |
-| 🧩 [`liqaa-vscode`](https://github.com/hartemyaakoub/liqaa-vscode) | VS Code extension — inline docs, room management, webhook tester (in-editor) |
+| [`liqaa-cli`](https://github.com/hartemyaakoub/liqaa-cli) | `npx @liqaa/cli` — login, rooms, tokens, webhooks, deliveries, status, shell completion |
+| [`liqaa-mcp`](https://github.com/hartemyaakoub/liqaa-mcp) | Model Context Protocol — let Claude or Cursor implement video features by prompt |
+| [`liqaa-vscode`](https://github.com/hartemyaakoub/liqaa-vscode) | VS Code extension — inline docs, room management, webhook tester |
 
-#### 🚀 Templates · zero-friction starters
+#### Templates
 
 | Repo | Stack | Time-to-call |
 | ---- | ----- | ------------ |
-| ⚡ [`liqaa-template-nextjs`](https://github.com/hartemyaakoub/liqaa-template-nextjs) | Next.js 16 · App Router · RSC · webhook handler | < 3 min |
-| ⚛️ [`liqaa-template-react`](https://github.com/hartemyaakoub/liqaa-template-react) | React 19 · Vite · TypeScript | < 3 min |
-| 🏭 [`liqaa-examples`](https://github.com/hartemyaakoub/liqaa-examples) | Five production examples — support widget, telehealth, classroom, sales, interviews | 5–15 min |
+| [`liqaa-template-nextjs`](https://github.com/hartemyaakoub/liqaa-template-nextjs) | Next.js 16 · App Router · RSC · webhook handler | under 3 min |
+| [`liqaa-template-react`](https://github.com/hartemyaakoub/liqaa-template-react) | React 19 · Vite · TypeScript | under 3 min |
+| [`liqaa-examples`](https://github.com/hartemyaakoub/liqaa-examples) | Five production examples — support widget, telehealth, classroom, sales, interviews | 5 to 15 min |
 
-#### 📜 Specs & governance · single source of truth
-
-| Repo | What it is |
-| ---- | ---------- |
-| 📜 [`liqaa-openapi`](https://github.com/hartemyaakoub/liqaa-openapi) | OpenAPI 3.1 spec — the **only** description of the API. Every SDK derives from this |
-| 🏛️ [`liqaa-architecture`](https://github.com/hartemyaakoub/liqaa-architecture) | Public **Architecture Decision Records** + system diagrams. The "why" behind every choice |
-| 🗳️ [`liqaa-rfcs`](https://github.com/hartemyaakoub/liqaa-rfcs) | Public **RFC process** for substantial changes. Open governance, Rust-RFC inspired |
-| 🧪 [`liqaa-compliance`](https://github.com/hartemyaakoub/liqaa-compliance) | **Cross-SDK compliance suite** — same scenarios, 4 SDKs, 60-cell matrix CI. Proof of no behavioural drift |
-
-#### 🔭 Operations · radical transparency
+#### Specs and governance
 
 | Repo | What it is |
 | ---- | ---------- |
-| 🟢 [`liqaa-status`](https://github.com/hartemyaakoub/liqaa-status) | Public uptime probes — every 5 min via GitHub Actions, history is git log |
-| 📊 [`liqaa-benchmarks`](https://github.com/hartemyaakoub/liqaa-benchmarks) | Reproducible latency + cost benchmarks · LIQAA vs Daily, Twilio, LiveKit Cloud, Whereby |
+| [`liqaa-openapi`](https://github.com/hartemyaakoub/liqaa-openapi) | OpenAPI 3.1 spec — the only description of the API. Every SDK derives from this |
+| [`liqaa-architecture`](https://github.com/hartemyaakoub/liqaa-architecture) | Public Architecture Decision Records and system diagrams. The reasoning behind every choice |
+| [`liqaa-rfcs`](https://github.com/hartemyaakoub/liqaa-rfcs) | Public RFC process for substantial changes. Open governance, Rust-RFC inspired |
+| [`liqaa-compliance`](https://github.com/hartemyaakoub/liqaa-compliance) | Cross-SDK compliance suite — same scenarios, 4 SDKs, 60-cell matrix CI. Proof of no behavioural drift |
 
-#### 📣 Community & brand
+#### Operations
 
 | Repo | What it is |
 | ---- | ---------- |
-| ✨ [`awesome-liqaa`](https://github.com/hartemyaakoub/awesome-liqaa) | Curated list — SDKs, integrations, community resources |
-| 📰 [`liqaa-changelog`](https://github.com/hartemyaakoub/liqaa-changelog) | Public changelog (Keep-a-Changelog · semantic versioning) |
-| 🗺️ [`liqaa-roadmap`](https://github.com/hartemyaakoub/liqaa-roadmap) | What we're shipping — Q2/Q3/Q4 2026 + 2027 horizon |
-| 🎨 [`liqaa-assets`](https://github.com/hartemyaakoub/liqaa-assets) | Brand kit — logos, OG images, embed snippets, brand guidelines |
+| [`liqaa-status`](https://github.com/hartemyaakoub/liqaa-status) | Public uptime probes — every 5 min via GitHub Actions, history is git log |
+| [`liqaa-benchmarks`](https://github.com/hartemyaakoub/liqaa-benchmarks) | Reproducible latency and cost benchmarks · LIQAA vs Daily, Twilio, LiveKit Cloud, Whereby |
+
+#### Community and brand
+
+| Repo | What it is |
+| ---- | ---------- |
+| [`awesome-liqaa`](https://github.com/hartemyaakoub/awesome-liqaa) | Curated list — SDKs, integrations, community resources |
+| [`liqaa-changelog`](https://github.com/hartemyaakoub/liqaa-changelog) | Public changelog (Keep-a-Changelog · semantic versioning) |
+| [`liqaa-roadmap`](https://github.com/hartemyaakoub/liqaa-roadmap) | What we are shipping — Q2/Q3/Q4 2026 and 2027 horizon |
+| [`liqaa-assets`](https://github.com/hartemyaakoub/liqaa-assets) | Brand kit — logos, OG images, embed snippets, brand guidelines |
 
 ---
 
 ### Engineering principles
 
-I optimise for things that compound. The repos above aren't a marketing checklist — each one closes a specific developer-trust loop.
+I optimise for things that compound. The repos above are not a marketing checklist — each one closes a specific developer-trust loop.
 
-- **`pk_live_` / `sk_live_` separation** ([ADR-002](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/002-stripe-pattern-pk-sk-key-separation.md)) — Stripe got this right in 2011, no point reinventing it.
+- **`pk_live_` and `sk_live_` separation** ([ADR-002](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/002-stripe-pattern-pk-sk-key-separation.md)) — Stripe got this right in 2011, no point reinventing it.
 - **JWT token exchange** ([ADR-003](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/003-jwt-token-exchange-vs-long-lived-keys.md)) — never ship a long-lived secret to a browser.
 - **HMAC-signed webhooks with replay protection** ([ADR-004](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/004-hmac-sha256-webhooks-with-replay-protection.md)) — the t=…,v1=… pattern.
 - **No PII in storage paths** ([ADR-005](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/005-no-pii-in-recording-paths.md)) — opaque IDs, not customer emails.
@@ -120,7 +120,7 @@ The full ADR set is in [`liqaa-architecture`](https://github.com/hartemyaakoub/l
 
 ### Reach out
 
-- **Partners / sales:** [partners@tkawen.com](mailto:partners@tkawen.com)
+- **Partners and sales:** [partners@tkawen.com](mailto:partners@tkawen.com)
 - **Security:** [security@liqaa.io](mailto:security@liqaa.io) · [security.txt](https://liqaa.io/.well-known/security.txt)
 - **Personal:** [yaakoub.hartem.mhsi@gmail.com](mailto:yaakoub.hartem.mhsi@gmail.com)
 
@@ -131,6 +131,6 @@ The full ADR set is in [`liqaa-architecture`](https://github.com/hartemyaakoub/l
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hartemyaakoub&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)](https://github.com/hartemyaakoub)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hartemyaakoub&theme=transparent&hide_border=true&layout=compact)](https://github.com/hartemyaakoub)
 
-> Built in 🇩🇿 Algeria, for the world.
+> Built in Algeria, for the world.
 
 </div>
