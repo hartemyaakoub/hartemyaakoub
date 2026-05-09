@@ -11,7 +11,7 @@
 
 [![Email](https://img.shields.io/badge/email-yaakoub.hartem.mhsi%40gmail.com-475569?style=flat-square)](mailto:yaakoub.hartem.mhsi@gmail.com)
 [![X](https://img.shields.io/badge/x-%40liqaa__io-0f172a?style=flat-square&logo=x)](https://x.com/liqaa_io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaakoub_HARTEM-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hartem-yaakoub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaakoub_HARTEM-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yaakoub-hartem-25a2b722b/)
 
 </div>
 
