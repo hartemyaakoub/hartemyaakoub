@@ -1,6 +1,6 @@
 <div align="center">
 
-### Yaakoub HARTEM
+### Hartem Yaakoub
 
 **Founder & CEO, [TKAWEN](https://tkawen.com)** · Building real-time infrastructure from Algeria, for the world.
 
@@ -134,3 +134,8 @@ The full ADR set is in [`liqaa-architecture`](https://github.com/hartemyaakoub/l
 > Built in Algeria, for the world.
 
 </div>
+
+
+---
+
+→ Personal site: **[hartem.tkawen.com](https://hartem.tkawen.com/)** (Rust + Axum + Maud, AGPL-3.0)
