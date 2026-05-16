@@ -1,141 +1,208 @@
+<!-- 
+  ╔════════════════════════════════════════════════════════════════════════╗
+  ║  Hartem Yaakoub — github.com/hartemyaakoub                             ║
+  ║  Source: github.com/hartemyaakoub/hartemyaakoub (profile README)       ║
+  ║  Personal site: https://hartem.tkawen.com/ (Rust + Axum + Maud)        ║
+  ╚════════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-### Hartem Yaakoub
+[![Hartem Yaakoub — Engineering the digital future](https://capsule-render.vercel.app/api?type=waving&color=0:0a0908,30:1a1612,70:c2a35a,100:dec38c&height=240&section=header&text=Hartem%20Yaakoub&fontSize=78&fontColor=fafaf7&animation=fadeIn&fontAlignY=42&desc=Engineering%20the%20digital%20future&descSize=22&descAlignY=70)](https://hartem.tkawen.com/)
 
-**Founder & CEO, [TKAWEN](https://tkawen.com)** · Building real-time infrastructure from Algeria, for the world.
+### `HSI engineer · Founder @TKAWEN · AGPL maximalist`
 
-[![liqaa](https://img.shields.io/badge/LIQAA-Cloud-1d4ed8?style=flat-square)](https://liqaa.io)
-[![tkawen](https://img.shields.io/badge/TKAWEN-Group-0a0d18?style=flat-square)](https://tkawen.com)
-[![algeriacertify](https://img.shields.io/badge/Algeria_Certify-Live-10b981?style=flat-square)](https://algeriacertify.com)
-[![mystoq](https://img.shields.io/badge/MyStoq-Live-7c3aed?style=flat-square)](https://mystoq.com)
+**Building open-source video, commerce, certification & trust infrastructure — from Algeria, for the world.**
 
-[![Email](https://img.shields.io/badge/email-yaakoub.hartem.mhsi%40gmail.com-475569?style=flat-square)](mailto:yaakoub.hartem.mhsi@gmail.com)
-[![X](https://img.shields.io/badge/x-%40liqaa__io-0f172a?style=flat-square&logo=x)](https://x.com/liqaa_io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaakoub_HARTEM-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yaakoub-hartem-25a2b722b/)
+[![Personal site](https://img.shields.io/badge/hartem.tkawen.com-0a0908?style=for-the-badge&logo=rust&logoColor=f4d97a)](https://hartem.tkawen.com/)
+[![TKAWEN](https://img.shields.io/badge/TKAWEN-c2a35a?style=for-the-badge&logoColor=000)](https://www.tkawen.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaakoub-hartem-25a2b722b/)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TKAWENTECH)
+[![Email](https://img.shields.io/badge/DIRECTION%40takawen.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DIRECTION@takawen.dz)
+
+![Profile views](https://komarev.com/ghpvc/?username=hartemyaakoub&label=Profile%20views&color=c2a35a&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/hartemyaakoub?label=Followers&style=for-the-badge&color=c2a35a&labelColor=0a0908)](https://github.com/hartemyaakoub?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/hartemyaakoub?label=Stars&style=for-the-badge&color=c2a35a&labelColor=0a0908)](https://github.com/hartemyaakoub?tab=repositories)
 
 </div>
 
-[meet.liqaa.io](https://meet.liqaa.io) is live now — open-source video meetings, working in your browser right now.
+---
+
+## `// manifesto`
+
+> **Algerian engineers can write software the world depends on.**
+> Eleven shipped products are my evidence — and I am only at the beginning.
 
 ---
 
-### What I am shipping
+## `// what i'm building right now`
 
-I run **TKAWEN** — a sovereign-tech company building infrastructure for the MENA region and beyond. Our flagship products power production traffic for thousands of users daily.
+| Project | Stack | What it is |
+|---|---|---|
+| **[hartem-tkawen-rs](https://github.com/hartemyaakoub/hartem-tkawen-rs)** ⚡ | `Rust` `Axum` `Maud` | My personal site as a single 9 MB binary · sub-millisecond renders · AGPL-3.0 · downloadable & runnable |
+| **[liqaa-meet](https://github.com/hartemyaakoub/liqaa-meet)** | `TypeScript` `Next.js` | Open-source Zoom alternative · self-host in 60s · 100+ languages AI captions · AGPL-3.0 |
+| **[awesome-liqaa](https://github.com/hartemyaakoub/awesome-liqaa)** | `awesome-list` | Curated ecosystem of LIQAA integrations, SDKs, templates |
+| **[liqaa-mcp](https://github.com/hartemyaakoub/liqaa-mcp)** | `TypeScript` `MCP` | Model Context Protocol server — let AI agents (Claude, Cursor) start LIQAA video calls |
+| **[liqaa-js](https://github.com/hartemyaakoub/liqaa-js)** · **[liqaa-php](https://github.com/hartemyaakoub/liqaa-php)** · **[liqaa-python](https://github.com/hartemyaakoub/liqaa-python)** · **[liqaa-go](https://github.com/hartemyaakoub/liqaa-go)** | SDKs | Official LIQAA SDKs across 4 languages |
+| **[liqaa-cli](https://github.com/hartemyaakoub/liqaa-cli)** · **[liqaa-vscode](https://github.com/hartemyaakoub/liqaa-vscode)** | Devtools | CLI + VSCode extension for LIQAA |
 
-**LIQAA** is the public-facing piece: a Stripe-grade video conferencing API with WebRTC under the hood, served from a global edge network. WebRTC simulcast, HMAC-signed webhooks, JWT-based per-user tokens, persistent room reuse — production primitives, not a demo.
-
-**Stack:** TypeScript, Next.js 16, Laravel 12, PHP 8.4, Go, Python, LiveKit SFU, MySQL, Redis, nginx, systemd, Docker, GitHub Actions, Vercel, Cloudflare R2.
+→ **22 open-source repositories** under [@hartemyaakoub](https://github.com/hartemyaakoub?tab=repositories). AGPL-3.0 where it matters.
 
 ---
 
-### Flagship — LIQAA Meet
+## `// production platforms (live · paying customers)`
 
-**[`liqaa-meet`](https://github.com/hartemyaakoub/liqaa-meet)** — the open-source video meeting platform. Self-host in 60 seconds. AI captions and summaries running entirely in your browser, never on a server. The open-source alternative to Zoom, Meet, Teams.
+<table>
+<tr><td width="50%">
 
-[![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-1d4ed8?style=flat-square)](https://github.com/hartemyaakoub/liqaa-meet/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/hartemyaakoub/liqaa-meet?style=flat-square&color=eab308)](https://github.com/hartemyaakoub/liqaa-meet)
-[![Self-host](https://img.shields.io/badge/self--host-1%20command-10b981?style=flat-square)](https://github.com/hartemyaakoub/liqaa-meet/blob/main/SELF_HOSTING.md)
+**[Algeria Certify](https://www.algeriacertify.com/)** 🛡️
+National digital certification platform.
+**4,193+** tamper-proof certificates issued
+**4,132+** verified institutions
+QR-verifiable · public 24/7 verification
 
-```bash
-git clone https://github.com/hartemyaakoub/liqaa-meet
-cd liqaa-meet && cp .env.example .env
-docker compose up -d
+</td><td width="50%">
+
+**[LIQAA](https://liqaa.io/)** 🎥
+Professional video infrastructure.
+SDKs in **JS · PHP · Python · Go**
+**99.99%** uptime · 5 lines of code to integrate
+End-to-end encrypted · webhook signing
+
+</td></tr><tr><td>
+
+**[STOQ / MyStoq](https://www.mystoq.com/)** 🛒
+E-commerce SaaS for Algerian merchants.
+**1,708 communes** mapped
+**58/58 wilayas** native checkout
+Integrated shipping
+
+</td><td>
+
+**[PharmaPro](https://pharmapro.tkawen.com/)** 💊
+Pharmacy management software.
+**17** license endpoints
+UPROMEDIC-integrated
+Production B2B SaaS
+
+</td></tr><tr><td>
+
+**[TKAWEN Catalogue](https://catalogue.tkawen.com/)** 📚
+74 certified training programs
+**222** program pages in 3 languages
+**375+** indexed URLs
+
+</td><td>
+
+**[TKAWEN Trust](https://trust.tkawen.com/)** 🤝
+Trust network for the digital ecosystem.
+Verified-domain identity
+Federated trust signals
+
+</td></tr><tr><td>
+
+**[LIQAA Meet](https://meet.liqaa.io/)** 📹
+Open-source Zoom alternative · AGPL-3.0
+Self-host in 60s · one docker command
+100+ languages AI captions
+
+</td><td>
+
+**[TKAWEN Studio](https://studio.tkawen.com/)** 🎬
+Automated Arabic video production.
+Azure ar-DZ TTS · Playwright · FFmpeg
+The marketing engine for every platform
+
+</td></tr>
+</table>
+
+---
+
+## `// github stats`
+
+<div align="center">
+
+[![Hartem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hartemyaakoub&show_icons=true&theme=dark&hide_border=true&bg_color=0a0908&title_color=c2a35a&icon_color=c2a35a&text_color=fafaf7&include_all_commits=true&count_private=true)](https://github.com/hartemyaakoub)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hartemyaakoub&layout=compact&theme=dark&hide_border=true&bg_color=0a0908&title_color=c2a35a&text_color=fafaf7&langs_count=8)](https://github.com/hartemyaakoub)
+
+[![GitHub streak](https://streak-stats.demolab.com/?user=hartemyaakoub&theme=dark&hide_border=true&background=0a0908&stroke=c2a35a&ring=c2a35a&fire=dec38c&currStreakLabel=c2a35a&dates=a99f8d&sideLabels=a99f8d&currStreakNum=fafaf7&sideNums=fafaf7)](https://github.com/hartemyaakoub)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hartemyaakoub&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/hartemyaakoub)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hartemyaakoub&bg_color=0a0908&color=fafaf7&line=c2a35a&point=dec38c&area=true&hide_border=true)](https://github.com/hartemyaakoub)
+
+</div>
+
+---
+
+## `// recognition`
+
+- 🇰🇷 **ASEP Cohort 3** — Algerian Startup Expedition Program · South Korea, October 2024 · POSTECH · Seoul AI Hub · COEX · Startup Park Incheon
+- 🏆 **Top 20 Innovative Projects in Algeria** — March 2024 (national ranking)
+- 🏅 **Label Startup** n° 0108242769 + **Label Projet Innovant** n° 13122331145 — Ministry of Knowledge Economy, Startups & Micro-enterprises
+- 🎓 **First national academic spin-off cohort** at Université Badji Mokhtar — Annaba · matricule **UBMA-STARTUP-2023-00062**
+- 📜 Founded under **arrêté ministériel n° 1275/2023** (MESRS) + **décret exécutif n° 20-254**
+- 📺 National TV — **Channel 6 «Salam Chab»** · ENTV · Echorouk
+- 🔑 D-U-N-S **35-355-1313** · R/C **23/00-1880186 A 22**
+
+> «We are currently in the phase of exporting Algerian startups to the world.»
+> — on *Salam Chab*, Channel 6 (Algerian public TV)
+
+---
+
+## `// speaking & writing`
+
+- **«Global Innovation and Entrepreneurial Synergies — A Transformative Experience at ASEP in South Korea»** · *Medium · Jan 2025*
+- **«From HSI to Digital Infrastructure: Notes from a single founder in Annaba»** · *forthcoming*
+
+Speaking: ACF 2025 · ACF 2026 · Palais de la Culture · UBMA Global Entrepreneurship Week · Illizi Business Incubator · African Startup Conference (CIC Algiers, Dec 2025)
+
+---
+
+## `// stack`
+
+```yaml
+# Languages I ship with
+primary:   [Rust, TypeScript, PHP, Python, Go]
+markup:    [HTML, Maud, SCSS]
+infra:     [nginx, systemd, Docker, Let's Encrypt, PostgreSQL, Redis]
+frontend:  [Next.js, Nuxt, Livewire, Tailwind]
+backend:   [Axum, Laravel, FastAPI, Node]
+realtime:  [WebRTC, LiveKit, WebSockets, MTA-STS]
+ai:        [Ollama, OpenAI, Edge TTS, Whisper-WASM, MCP]
+
+# Where it runs
+hosting:   [Contabo VPS40 · 12-core · 48 GB · Annaba-served]
+edge:      [Cloudflare R2, IndexNow, hreflang]
+
+# Why
+philosophy: [
+  "open source where it matters",
+  "boring tech for production",
+  "ship from Algeria, design for the world",
+  "AGPL for the things worth protecting"
+]
 ```
 
-Live demo: **[meet.liqaa.io](https://meet.liqaa.io)**
-
 ---
 
-### LIQAA — the open-source ecosystem
+## `// contact`
 
-This is not a single repo. It is a **22-repo platform** — every artifact a developer needs, in their language, with their workflow. Specs and SDKs, examples and templates, benchmarks and status, governance and brand. All public, all reproducible.
-
-#### SDKs
-
-| Repo | Language | Package | What it does |
-| ---- | -------- | ------- | ------------ |
-| [`liqaa-js`](https://github.com/hartemyaakoub/liqaa-js) | TypeScript | `@liqaa/js` | Drop-in `<script>` and npm — React, Next.js, Vue, Vanilla examples |
-| [`liqaa-php`](https://github.com/hartemyaakoub/liqaa-php) | PHP | `liqaa/sdk` | Composer — Laravel and Symfony-friendly |
-| [`liqaa-python`](https://github.com/hartemyaakoub/liqaa-python) | Python | `liqaa` | PyPI · Flask, Django, FastAPI |
-| [`liqaa-go`](https://github.com/hartemyaakoub/liqaa-go) | Go | — | `go get` module, idiomatic |
-
-#### Tooling
-
-| Repo | What it does |
-| ---- | ------------ |
-| [`liqaa-cli`](https://github.com/hartemyaakoub/liqaa-cli) | `npx @liqaa/cli` — login, rooms, tokens, webhooks, deliveries, status, shell completion |
-| [`liqaa-mcp`](https://github.com/hartemyaakoub/liqaa-mcp) | Model Context Protocol — let Claude or Cursor implement video features by prompt |
-| [`liqaa-vscode`](https://github.com/hartemyaakoub/liqaa-vscode) | VS Code extension — inline docs, room management, webhook tester |
-
-#### Templates
-
-| Repo | Stack | Time-to-call |
-| ---- | ----- | ------------ |
-| [`liqaa-template-nextjs`](https://github.com/hartemyaakoub/liqaa-template-nextjs) | Next.js 16 · App Router · RSC · webhook handler | under 3 min |
-| [`liqaa-template-react`](https://github.com/hartemyaakoub/liqaa-template-react) | React 19 · Vite · TypeScript | under 3 min |
-| [`liqaa-examples`](https://github.com/hartemyaakoub/liqaa-examples) | Five production examples — support widget, telehealth, classroom, sales, interviews | 5 to 15 min |
-
-#### Specs and governance
-
-| Repo | What it is |
-| ---- | ---------- |
-| [`liqaa-openapi`](https://github.com/hartemyaakoub/liqaa-openapi) | OpenAPI 3.1 spec — the only description of the API. Every SDK derives from this |
-| [`liqaa-architecture`](https://github.com/hartemyaakoub/liqaa-architecture) | Public Architecture Decision Records and system diagrams. The reasoning behind every choice |
-| [`liqaa-rfcs`](https://github.com/hartemyaakoub/liqaa-rfcs) | Public RFC process for substantial changes. Open governance, Rust-RFC inspired |
-| [`liqaa-compliance`](https://github.com/hartemyaakoub/liqaa-compliance) | Cross-SDK compliance suite — same scenarios, 4 SDKs, 60-cell matrix CI. Proof of no behavioural drift |
-
-#### Operations
-
-| Repo | What it is |
-| ---- | ---------- |
-| [`liqaa-status`](https://github.com/hartemyaakoub/liqaa-status) | Public uptime probes — every 5 min via GitHub Actions, history is git log |
-| [`liqaa-benchmarks`](https://github.com/hartemyaakoub/liqaa-benchmarks) | Reproducible latency and cost benchmarks · LIQAA vs Daily, Twilio, LiveKit Cloud, Whereby |
-
-#### Community and brand
-
-| Repo | What it is |
-| ---- | ---------- |
-| [`awesome-liqaa`](https://github.com/hartemyaakoub/awesome-liqaa) | Curated list — SDKs, integrations, community resources |
-| [`liqaa-changelog`](https://github.com/hartemyaakoub/liqaa-changelog) | Public changelog (Keep-a-Changelog · semantic versioning) |
-| [`liqaa-roadmap`](https://github.com/hartemyaakoub/liqaa-roadmap) | What we are shipping — Q2/Q3/Q4 2026 and 2027 horizon |
-| [`liqaa-assets`](https://github.com/hartemyaakoub/liqaa-assets) | Brand kit — logos, OG images, embed snippets, brand guidelines |
-
----
-
-### Engineering principles
-
-I optimise for things that compound. The repos above are not a marketing checklist — each one closes a specific developer-trust loop.
-
-- **`pk_live_` and `sk_live_` separation** ([ADR-002](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/002-stripe-pattern-pk-sk-key-separation.md)) — Stripe got this right in 2011, no point reinventing it.
-- **JWT token exchange** ([ADR-003](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/003-jwt-token-exchange-vs-long-lived-keys.md)) — never ship a long-lived secret to a browser.
-- **HMAC-signed webhooks with replay protection** ([ADR-004](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/004-hmac-sha256-webhooks-with-replay-protection.md)) — the t=…,v1=… pattern.
-- **No PII in storage paths** ([ADR-005](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/005-no-pii-in-recording-paths.md)) — opaque IDs, not customer emails.
-- **OpenAPI as single source of truth** ([ADR-008](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/008-openapi-as-single-source-of-truth.md)) — every SDK derives from one spec.
-- **Public status page powered by GitHub Actions** ([ADR-009](https://github.com/hartemyaakoub/liqaa-architecture/blob/main/adrs/009-public-status-page-via-github-actions.md)) — incident history is git log.
-
-The full ADR set is in [`liqaa-architecture`](https://github.com/hartemyaakoub/liqaa-architecture).
-
----
-
-### Reach out
-
-- **Partners and sales:** [partners@tkawen.com](mailto:partners@tkawen.com)
-- **Security:** [security@liqaa.io](mailto:security@liqaa.io) · [security.txt](https://liqaa.io/.well-known/security.txt)
-- **Personal:** [yaakoub.hartem.mhsi@gmail.com](mailto:yaakoub.hartem.mhsi@gmail.com)
-
----
+```
+✉  DIRECTION@takawen.dz
+☎  +213 666 507 935
+🌍 hartem.tkawen.com (Rust + Axum + Maud · AGPL-3.0)
+🏢 TKAWEN · Annaba · Algeria
+🇩🇿 Building from Algeria — for the world.
+```
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hartemyaakoub&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)](https://github.com/hartemyaakoub)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hartemyaakoub&theme=transparent&hide_border=true&layout=compact)](https://github.com/hartemyaakoub)
+[![Snake animation](https://raw.githubusercontent.com/hartemyaakoub/hartemyaakoub/output/github-snake-dark.svg)](https://github.com/hartemyaakoub)
 
-> Built in Algeria, for the world.
+<sub>
+This README is itself a deployment artifact — auto-rendered with live stats.<br>
+Last touched: <a href="https://github.com/hartemyaakoub/hartemyaakoub/commits/main">see commit log</a> · Source: <a href="https://github.com/hartemyaakoub/hartemyaakoub">hartemyaakoub/hartemyaakoub</a>
+</sub>
 
 </div>
-
-
----
-
-→ Personal site: **[hartem.tkawen.com](https://hartem.tkawen.com/)** (Rust + Axum + Maud, AGPL-3.0)
