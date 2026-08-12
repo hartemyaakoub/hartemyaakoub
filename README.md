@@ -74,7 +74,7 @@ End-to-end encrypted · webhook signing
 **[STOQ / MyStoq](https://www.mystoq.com/)** 🛒
 E-commerce SaaS for Algerian merchants.
 **1,708 communes** mapped
-**58/58 wilayas** native checkout
+**69/69 wilayas** native checkout
 Integrated shipping
 
 </td><td>
