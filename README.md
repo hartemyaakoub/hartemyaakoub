@@ -46,7 +46,7 @@
 | **[liqaa-js](https://github.com/hartemyaakoub/liqaa-js)** · **[liqaa-php](https://github.com/hartemyaakoub/liqaa-php)** · **[liqaa-python](https://github.com/hartemyaakoub/liqaa-python)** · **[liqaa-go](https://github.com/hartemyaakoub/liqaa-go)** | SDKs | Official LIQAA SDKs across 4 languages |
 | **[liqaa-cli](https://github.com/hartemyaakoub/liqaa-cli)** · **[liqaa-vscode](https://github.com/hartemyaakoub/liqaa-vscode)** | Devtools | CLI + VSCode extension for LIQAA |
 
-→ **22 open-source repositories** under [@hartemyaakoub](https://github.com/hartemyaakoub?tab=repositories). AGPL-3.0 where it matters.
+→ **30 maintained repositories** under [@hartemyaakoub](https://github.com/hartemyaakoub?tab=repositories), plus 16 archived read-only. AGPL-3.0 where it matters.
 
 ---
 
@@ -66,7 +66,7 @@ QR-verifiable · public 24/7 verification
 **[LIQAA](https://liqaa.io/)** 🎥
 Professional video infrastructure.
 SDKs in **JS · PHP · Python · Go**
-**99.99%** uptime · 5 lines of code to integrate
+**99.4%** measured — [890 probes, 75 days, receipts in git](https://hartemyaakoub.github.io/mystoq-status/)
 End-to-end encrypted · webhook signing
 
 </td></tr><tr><td>
