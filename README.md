@@ -46,7 +46,7 @@
 | **[liqaa-js](https://github.com/hartemyaakoub/liqaa-js)** · **[liqaa-php](https://github.com/hartemyaakoub/liqaa-php)** · **[liqaa-python](https://github.com/hartemyaakoub/liqaa-python)** · **[liqaa-go](https://github.com/hartemyaakoub/liqaa-go)** | SDKs | Official LIQAA SDKs across 4 languages |
 | **[liqaa-cli](https://github.com/hartemyaakoub/liqaa-cli)** · **[liqaa-vscode](https://github.com/hartemyaakoub/liqaa-vscode)** | Devtools | CLI + VSCode extension for LIQAA |
 
-→ **30 maintained repositories** under [@hartemyaakoub](https://github.com/hartemyaakoub?tab=repositories), plus 16 archived read-only. AGPL-3.0 where it matters.
+→ **30 maintained repositories** under [@hartemyaakoub](https://github.com/hartemyaakoub?tab=repositories), plus 17 archived read-only. AGPL-3.0 where it matters.
 
 ---
 
@@ -57,8 +57,8 @@
 
 **[Algeria Certify](https://www.algeriacertify.com/)** 🛡️
 National digital certification platform.
-**4,193+** tamper-proof certificates issued
-**4,132+** verified institutions
+**4,300+** tamper-proof certificates issued
+**1,700+** students certified
 QR-verifiable · public 24/7 verification
 
 </td><td width="50%">
